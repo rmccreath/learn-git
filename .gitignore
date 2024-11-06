@@ -30,6 +30,11 @@ summary.docx
 # Excel files
 *.[xX][lL][sS]*
 
+# Excel files
+*.[cC][sS][vV]*
+
+
+
 # SPSS formats
 *.[sS][aA][vV]
 
