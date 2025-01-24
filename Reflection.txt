@@ -1,1 +1,2 @@
-Learned about git history
+I am understanding GIT more and feeling more comfortable using it!
+
