@@ -29,9 +29,10 @@ summary.docx
 
 # Excel files
 *.[xX][lL][sS]*
+*.[xX][lL][sS]
 
 # SPSS formats
-*.[sS][aA][vV]
+*.[sS][aA][vV]*
 
 # R data files
 *.[rR][dD][aA][tT][aA]
