@@ -49,5 +49,5 @@ Thumbs.db
 
 # csv files
 
-*.csv
+*.[cC][sS][vV]
 
