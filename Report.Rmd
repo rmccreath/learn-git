@@ -17,6 +17,4 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 ```
 
-## Section to be removed
 
-This section should be removed as part of exercise 3.
