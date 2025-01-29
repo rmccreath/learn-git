@@ -1,0 +1,3 @@
+Su's Reflection
+
+Today I learned how to clone a repo, ignore the changes and create a branch in GitHub.
