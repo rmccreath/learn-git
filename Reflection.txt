@@ -1,1 +1,5 @@
+
+I have learnt how to structure branches and the concept map of Git, understanding how all the elements piece together. 
+
 Learning about GitHub is great!
+
