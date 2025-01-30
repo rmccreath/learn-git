@@ -1,0 +1,1 @@
+Course is well structured. I've found it useful going through the features and processes for best practice in using git.
