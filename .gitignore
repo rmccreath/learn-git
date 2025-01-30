@@ -47,5 +47,6 @@ ehthumbs.db
 Thumbs.db
 .Rproj.user
 
-# CSV
+# .csv files
 *.csv
+
